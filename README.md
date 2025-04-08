@@ -2,7 +2,7 @@
 
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Este repositório contém um script Python que automatiza o processo de preenchimento de formulário em um sistema web. A automação é realizada utilizando a biblioteca `pyautogui` e os dados são provenientes de um arquivo `.csv`.
+Este repositório contém um script Python que automatiza o processo de preenchimento de formulário em um sistema web (https://amandameneseso.github.io/Sistema-de-cadastro-de-produtos/). A automação é realizada utilizando a biblioteca `pyautogui` e os dados são provenientes de um arquivo `.csv`.
 
 ## Conteúdo do Repositório
 
@@ -56,7 +56,7 @@ Para utilizar este script de automação, siga os passos abaixo:
     ```bash
     python interface.py
     ```
-    *(Certifique-se de que o sistema web de cadastro esteja aberto e na página de login antes de executar o script).*
+    *(Certifique-se de que o sistema web de cadastro (https://amandameneseso.github.io/Sistema-de-cadastro-de-produtos/) esteja aberto e na página de login antes de executar o script).*
 
 ## Tecnologias Utilizadas
 
