@@ -1,6 +1,6 @@
 # Sistema de Cadastro de Produtos - Automação com Python
 
-Este repositório contém um script Python que automatiza o processo de preenchimento de formulário em um sistema web (https://amandameneseso.github.io/Sistema-de-cadastro-de-produtos/). A automação é realizada utilizando a biblioteca `pyautogui` e os dados são provenientes de um arquivo `.csv`.
+Este repositório contém um script Python que automatiza o processo de preenchimento de um formulário (https://amandameneseso.github.io/Sistema-de-cadastro-de-produtos/). A automação é realizada utilizando a biblioteca `pyautogui` e os dados são provenientes de um arquivo `.csv`.
 
 ## Conteúdo do Repositório
 
