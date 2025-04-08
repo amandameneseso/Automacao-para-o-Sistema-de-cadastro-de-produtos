@@ -82,5 +82,3 @@ Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licens
 A interface HTML do sistema de cadastro de produtos pode ser acessada separadamente em:
 
 [https://amandameneseso.github.io/Sistema-de-cadastro-de-produtos](https://amandameneseso.github.io/Sistema-de-cadastro-de-produtos)
-
----
