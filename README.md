@@ -54,7 +54,7 @@ Para utilizar este script de automação, siga os passos abaixo:
     ```bash
     python interface.py
     ```
-    *(Certifique-se de que o sistema web de cadastro (https://amandameneseso.github.io/Sistema-de-cadastro-de-produtos/) esteja aberto e na página de login antes de executar o script).*
+Nota: Certifique-se de que o sistema de cadastro (https://amandameneseso.github.io/Sistema-de-cadastro-de-produtos/) esteja aberto e na página de login antes de executar o script.
 
 ## Tecnologias Utilizadas
 
