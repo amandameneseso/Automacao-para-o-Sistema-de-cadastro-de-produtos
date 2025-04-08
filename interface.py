@@ -26,7 +26,7 @@ def iniciar_automacao():
 
         # Passo 1: Entrar no sistema
         pyautogui.press("win")
-        pyautogui.write("chrome")
+        pyautogui.write("chrome") # navegador do usuário
         pyautogui.press("enter")
         pyautogui.write("https://amandameneseso.github.io/Sistema-de-cadastro-de-produtos/")
         pyautogui.press("enter")
@@ -48,6 +48,7 @@ def iniciar_automacao():
         for linha in tabela.index:
             pyautogui.press("home")
             pyautogui.click(x=821, y=254)
+            pyautogui.press("tab")
             pyautogui.write(tabela.loc[linha, "codigo"])
 
             pyautogui.press("tab")
@@ -83,7 +84,7 @@ janela = tk.Tk()
 janela.title("Automação de Cadastro")
 janela.geometry("400x300")
 
-titulo = tk.Label(janela, text="Cadastro Automático", font=("Arial", 16))
+titulo = tk.Label(janela, text="Cadastro automático de produtos", font=("Arial", 16))
 titulo.pack(pady=10)
 
 botao_arquivo = tk.Button(janela, text="Selecionar CSV", command=selecionar_csv, font=("Arial", 12))
